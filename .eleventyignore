@@ -1,4 +1,7 @@
-readme.md
+README.md
 CONTRIBUTING.md
+LICENSE
 .github/
 _drafts/
+gemini.py
+venv/
